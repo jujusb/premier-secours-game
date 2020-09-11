@@ -1,0 +1,58 @@
+CambiarPosicion.AVIXVID :
+Commencer par placer correctement le bras gauche du patient
+
+Ensuite, croisez l'autre bras
+
+Ensuite, faites-le rouler
+Tirer sur l'épaule et le genou.
+
+C'est la position latérale de sécurité (LSP).
+
+
+Electrodos.AVIXVID :
+Placez les électrodes.
+
+
+Estimular.AVIXVID :
+Secouez doucement le patient et parlez pour stimuler
+
+
+Heimlich. AVIXVID :
+Manœuvre de Heimlich
+Placez-vous derrière le patient, les mains juste sous sa poitrine
+
+Effectuer de fortes compressions
+Les compressions doivent être répétées 5 fois.
+
+
+IniciarTos.AVIXVID :
+Mettre une main sur sa poitrine 
+
+Lui donner une bonne claque dans le dos
+
+Répéter plusieurs fois
+Arrêtez de taper si le blocage est jeté ou s'il ne fonctionne pas.
+
+
+MirarOirSentir.AVIXVID :
+D'abord, ouvrez les voies respiratoires
+
+Rapprochez votre tête de celle du patient.
+
+Sentir son souffle sur votre joue.
+
+Sentez le souffle
+
+Examinez la poitrine pour vérifier si le patient respire.
+
+
+Resucitacion.AVIXVID :
+Trouvez l'extrémité des côtes
+
+Mettre les mains correctement
+
+Répéter les compressions 30 fois
+
+Vérifier si le patient respire
+
+Répéter jusqu'à ce qu'il respire

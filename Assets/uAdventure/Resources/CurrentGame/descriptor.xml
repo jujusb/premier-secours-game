@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game-descriptor versionNumber="398">
+  <title>Juego sobre primeros auxilios</title>
+  <description>Este juego permite simular diferentes situaciones tipicas donde se pueden aplicar concpetos basicos de primeros auxilios. Estas situaciones son principalmente el atragantamiento, el dolor toracico y el encontrarnos con una persona inconsciente.</description>
+  <invalid />
+  <configuration keepShowing="yes" keyboard-navigation="enabled" defaultClickAction="showActions" perspective="regular" dragBehaviour="considerNonTargets" autosave="yes" save-on-suspend="yes">
+    <gui type="contextual" inventoryPosition="none">
+      <cursors>
+        <cursor type="default" uri="gui/cursors/default_cursor.png" />
+        <cursor type="over" uri="gui/cursors/action_cursor.png" />
+        <cursor type="action" uri="gui/cursors/action_cursor.png" />
+        <cursor type="exit" uri="gui/cursors/action_cursor.png" />
+      </cursors>
+      <buttons>
+        <button action="talk" type="normal" uri="gui/buttons/Talk-Normal.png" />
+        <button action="talk" type="highlighted" uri="gui/buttons/Talk-Pressed.png" />
+        <button action="examine" type="normal" uri="gui/buttons/Examine-Normal.png" />
+        <button action="examine" type="highlighted" uri="gui/buttons/Examine-Pressed.png" />
+        <button action="use" type="normal" uri="gui/buttons/Use-Normal.png" />
+        <button action="use" type="highlighted" uri="gui/buttons/Use-Pressed.png" />
+        <button action="grab" type="normal" uri="gui/buttons/Use-Normal.png" />
+        <button action="grab" type="highlighted" uri="gui/buttons/Use-Pressed.png" />
+        <button action="give-to" type="normal" uri="gui/buttons/Use-Normal.png" />
+        <button action="give-to" type="highlighted" uri="gui/buttons/Use-Pressed.png" />
+        <button action="use-with" type="normal" uri="gui/buttons/Use-Normal.png" />
+        <button action="use-with" type="highlighted" uri="gui/buttons/Use-Pressed.png" />
+      </buttons>
+      <arrows>
+        <arrow type="default" uri="gui/cursors/default_cursor.png" />
+        <arrow type="over" uri="gui/cursors/action_cursor.png" />
+        <arrow type="action" uri="gui/cursors/action_cursor.png" />
+        <arrow type="exit" uri="gui/cursors/action_cursor.png" />
+      </arrows>
+    </gui>
+    <mode playerTransparent="yes" />
+    <graphics mode="windowed" />
+  </configuration>
+  <extension-objects>
+    <tracker rawCopy="yes" storageType="LOCAL" traceFormat="XAPI" host="" trackingCode="" flushInterval="3" debug="no" />
+  </extension-objects>
+  <contents>
+    <chapter path="chapter1.xml">
+      <title>
+      </title>
+      <description>
+      </description>
+    </chapter>
+  </contents>
+</game-descriptor>
